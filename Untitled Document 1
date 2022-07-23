@@ -1,0 +1,35 @@
+1.What are the two values of the Boolean data type? How do you write them?
+Ans:-True and False, using capital T and F, with the rest of the word in lowercase
+
+2.What are the three different types of Boolean operators?
+Ans:-&&,||
+
+3.Make a list of each Boolean operator&#39;s truth tables (i.e. every possible combination of Boolean
+values for the operator and what it evaluate ).
+Ans:-True and True is True.
+	True and False is False.
+	False and True is False.
+	False and False is False.
+	True or True is True.
+	True or False is True.
+	False or True is True.
+	False or False is False.
+	not True is False.
+	not False is True.
+4. What are the values of the following expressions?
+Ans:-
+	(5 > 4) and (3 == 5)  =False
+	not (5 > 4) =False
+	(5 > 4) or (3 == 5) =True
+	not ((5 > 4) or (3 == 5)) False
+	(True and True) and (True == False) =False
+	(not False) or (not True) True
+5. What are the six comparison operators?
+Ans:-   >,<,<=,>=,==,!=
+
+6. How do you tell the difference between the equal to and assignment operators?Describe a
+condition and when you would use one.
+Ans:-Embrace the next-gen automotive technology with MediaTek!Difference between Assignment (=) Vs Equal to (==) Operators in C++,Many times this question arises what is the difference between = and == operators in C programming language? Here we are going to tell you exactly what the differences between these two operators are.Assignment Operator (=),= is an Assignment Operator in C, C++ and other programming languages, It is Binary Operator which operates on two operands.  = assigns the value
+
+7. Identify the three blocks in this code:
+Ans:-line number 3,4,5
